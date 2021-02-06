@@ -2,7 +2,7 @@
 Connor Vaughs, Elisabeth Jones, Luke Hanselman, Sina Anaraki, Stefany Montano
 
 ## Intro
-This SQL code creates a SQL environment and implements queries to create practical solutions for local restaurants (In this script we specify a local joint called Chicken Charlies!). This project was completed as part of the final group project for Enterprise Data Management (MIS686) as part of my M.S. in Big Data Analytics at San Diego State University. 
+This SQL code creates a SQL environment and implements queries to create practical solutions for local restaurants (In this script we specify a local joint called Chicken Charlies). This project was completed as part of the final group project for Enterprise Data Management (MIS686) as part of my M.S. in Big Data Analytics at San Diego State University. 
 
 ## Technology
 * SQL Server 2019
